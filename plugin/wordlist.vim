@@ -1,15 +1,16 @@
 " Autocorrect word list from Office XP
-" Created by Gabriel Zachmann (zach@cs.uni-bonn.de)
-
+" Created by: Gabriel Zachmann (zach@cs.uni-bonn.de) 
+" Website: web.informatik.uni-bonn.de/~zach/vim/
+"
+" Facilitated by: Robert Hicks (bobh@hslda.org)
+"
 " It was very cool when I found that Gab created a way to
 " get Office acl files into Vim iab files. So I sent him
 " the Office XP ones that were on my system.
-
+"
 " I just put a line in my _vimrc file like so:
 " 
 " source $VIMRUNTIME/plugin/wordlist.vim
-"
-" and it works...
 
 iab abbout about
 iab abotu about
