@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=79
+
+When Vim parses this file it will give you autocorrection of words ("andthe" becomes "and the").
